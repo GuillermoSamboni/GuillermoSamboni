@@ -1,4 +1,4 @@
-<div align="center" with="400px">
+<div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Guillermo</a> 👋</h1>
 </div>
 <img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/Developer.png?alt=media&token=2998af1e-291c-4964-b70d-72e7a1a094c5">
@@ -6,19 +6,16 @@
 ## Sobre mi
 
 - 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+Soy un apasionado desarrollador de Android con experiencia en front-end y back-end. Me encanta la tecnología y crear soluciones innovadoras para mejorar la vida de las personas. Cuando no estoy programando, me gusta pasar tiempo al aire libre y descubrir nuevas aventuras. ¡Siempre estoy buscando aprender algo nuevo y desafiante!
 <br>
 
 ## Proyectos *bombitas*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Portafolio personal</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href=""https://g-sam.netlify.app/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/portWebSite.jpeg?alt=media&token=a611a063-724e-418d-a13d-ea9937482c11" width="400" alt="Port web site"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -27,13 +24,14 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>
+Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos de mis trabajos destacados, habilidades y experiencia como desarrollador. Este proyecto está construido con <strong>Vue.js</strong> y <strong>TypeScript</strong>, lo que garantiza una experiencia de usuario fluida y un código limpio y eficiente. La plataforma cuenta con un diseño elegante y moderno, que muestra claramente mi estilo personal y mi enfoque en la calidad y la atención al detalle. Además, el portafolio incluye información sobre mi educación, experiencia laboral y proyectos en los que he trabajado. Espero que disfrutes explorando mi trabajo y siéntete libre de contactarme si tienes alguna pregunta o comentario.
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-               <br>
+<br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
