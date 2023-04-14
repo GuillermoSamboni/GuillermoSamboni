@@ -17,7 +17,7 @@ Soy un apasionado desarrollador de Android con experiencia en front-end y back-e
 <div align="center">
 <a href=""https://g-sam.netlify.app/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/portWebSite.jpeg?alt=media&token=a611a063-724e-418d-a13d-ea9937482c11" width="400" alt="Port web site"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/GuillermoSamboni/Portafolio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
