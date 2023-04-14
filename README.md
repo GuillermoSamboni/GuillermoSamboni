@@ -34,25 +34,26 @@ Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos
 <div align="center">                                       
 <a href="https://github.com/GuillermoSamboni/FireApp" target="_blank">
 <div style="display:flex;">
-<img src="https://i.imgur.com/7uCBigG.jpg" width="180" alt="Curso arquitectura MVVM"></a>
-<img src="https://i.imgur.com/7uCBigG.jpg" width="180" alt="Curso arquitectura MVVM"></a>
+<img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/admin_samsung-galaxys20-pink-portrait.png?alt=media&token=efdcc616-42b9-4daf-b90f-1e171d17d79f" width="180" alt="Admin control"></a>
+<img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/company_samsung-galaxys20-pink-portrait.png?alt=media&token=079ce350-ced4-497b-ba5e-3cabcb5b5e9f" width="180" alt="Company control"></a>
 </div>
 <div style="display:flex;">
-<img src="https://i.imgur.com/7uCBigG.jpg" width="180" alt="Curso arquitectura MVVM"></a>
-<img src="https://i.imgur.com/7uCBigG.jpg" width="180" alt="Curso arquitectura MVVM"></a>
+<img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/comments_samsung-galaxys20-pink-portrait.png?alt=media&token=6418c2df-4683-41d8-9771-170864ab75d5" width="180" alt="Comments"></a>
 </div>
 
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<!--<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">-->
 </a>
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>
+Estamos desarrollando una nueva plataforma de búsqueda de <strong>EMPLEO</strong> llamada <strong>JobFinder</strong>. Nuestra aplicación permitirá a los usuarios buscar ofertas de trabajo en una amplia variedad de sectores y aplicar a ellas de forma rápida y sencilla. Además, <strong>JobFinder</strong> contará con funciones intuitivas que permitirán a los usuarios administrar sus aplicaciones y realizar un seguimiento del estado de sus solicitudes. La plataforma será fácil de usar y contará con un diseño moderno y elegante. Actualmente, se esta trabajando duro para desarrollar y perfeccionar las funciones de la aplicación, y pronto estará listos para presentar nuestra solución al público. Mantente al tanto de las actualizaciones y ¡pronto podrás descargar nuestra aplicación y encontrar tu próximo empleo!
+</p>
 </div>
 </td>                                                          
-</table>                                                                                 
+</table>
 </div>
 <br>
 
