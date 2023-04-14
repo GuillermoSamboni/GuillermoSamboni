@@ -38,7 +38,7 @@ Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos
 <img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/company_samsung-galaxys20-pink-portrait.png?alt=media&token=079ce350-ced4-497b-ba5e-3cabcb5b5e9f" width="180" alt="Company control"></a>
 </div>
 <div style="display:flex;">
-<img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/comments_samsung-galaxys20-pink-portrait.png?alt=media&token=6418c2df-4683-41d8-9771-170864ab75d5" width="180" height="200" alt="Comments"></a>
+<img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/comments_samsung-galaxys20-pink-portrait.png?alt=media&token=6418c2df-4683-41d8-9771-170864ab75d5" width="180" height="240" alt="Comments"></a>
 </div>
 
 <br>
