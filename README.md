@@ -47,6 +47,12 @@ Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos
 </a>
 </p>
 </p>
+<p>
+<a href="https://github.com/GuillermoSamboni/FireApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</a>
+</p>
 Estamos desarrollando una nueva plataforma de búsqueda de <strong>EMPLEO</strong> llamada <strong>JobFinder</strong>. Nuestra aplicación permitirá a los usuarios buscar ofertas de trabajo en una amplia variedad de sectores y aplicar a ellas de forma rápida y sencilla. Además, <strong>JobFinder</strong> contará con funciones intuitivas que permitirán a los usuarios administrar sus aplicaciones y realizar un seguimiento del estado de sus solicitudes. La plataforma será fácil de usar y contará con un diseño moderno y elegante. Actualmente, se esta trabajando duro para desarrollar y perfeccionar las funciones de la aplicación, y pronto estará listos para presentar nuestra solución al público. Mantente al tanto de las actualizaciones y ¡pronto podrás descargar nuestra aplicación y encontrar tu próximo empleo!
 </p>
 </div>
