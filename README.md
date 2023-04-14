@@ -2,13 +2,10 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Guillermo</a> 👋</h1>
 </div>
 <img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/Developer.png?alt=media&token=52417922-239d-4a14-a60b-a87734e72d12">
-
 ## Sobre mi
-
 - 📲 Software developer
-- Soy un apasionado desarrollador de Android con experiencia en front-end y back-end. Me encanta la tecnología y crear soluciones innovadoras para mejorar la vida de las personas. Cuando no estoy programando, me gusta pasar tiempo al aire libre y descubrir nuevas aventuras.
+- Soy un apasionado desarrollador Android con experiencia en front-end y back-end. Me encanta la tecnología y crear soluciones innovadoras para mejorar la vida de las personas. Cuando no estoy programando, me gusta pasar tiempo al aire libre y descubrir nuevas aventuras.
 <br>
-
 ## Proyectos *De interes*
 <table>
 <tr>
@@ -26,10 +23,8 @@
 </p>
 <p>
 Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos de mis trabajos destacados, habilidades y experiencia como desarrollador. Este proyecto está construido con <strong>Vue.js</strong> y <strong>TypeScript</strong>, lo que garantiza una experiencia de usuario fluida y un código limpio y eficiente. La plataforma cuenta con un diseño elegante y moderno, que muestra claramente mi estilo personal y mi enfoque en la calidad y la atención al detalle. Además, el portafolio incluye información sobre mi educación, experiencia laboral y proyectos en los que he trabajado. Espero que disfrutes explorando mi trabajo y siéntete libre de contactarme si tienes alguna pregunta o comentario.
-</div>
-                                                                                      
+</div>                                                                                  
 </td>
-
 <td width="50%">
 <br>
 <h3 align="center">JobFinder</h3>
@@ -42,11 +37,8 @@ Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos
 <div style="display:flex;">
 <img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/comments_samsung-galaxys20-pink-portrait.png?alt=media&token=6418c2df-4683-41d8-9771-170864ab75d5" width="180" height="250" alt="Comments"></a>
 </div>
-
 <br>
 <p>
-<!--<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">-->
 </a>
 </a>
 </p>
@@ -58,9 +50,7 @@ Estamos desarrollando una nueva plataforma de búsqueda de <strong>EMPLEO</stron
 </table>
 </div>
 <br>
-
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/GuillermoSamboni">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuillermoSamboni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
