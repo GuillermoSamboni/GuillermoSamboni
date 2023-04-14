@@ -2,12 +2,14 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Guillermo</a> 👋</h1>
 </div>
 <img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/Developer.png?alt=media&token=52417922-239d-4a14-a60b-a87734e72d12">
+
 ## Sobre mi
 - 📲 Software developer
 - Soy un apasionado desarrollador Android con experiencia en front-end y back-end. Me encanta la tecnología y crear soluciones innovadoras para mejorar la vida de las personas. Cuando no estoy programando, me gusta pasar tiempo al aire libre y descubrir nuevas aventuras.
 <br>
 
 ## Proyectos *De interes*
+
 <table>
 <tr>
 <td width="50%">
