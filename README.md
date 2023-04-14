@@ -5,11 +5,11 @@
 
 ## Sobre mi
 
-- 📲 Mobile developer
-Soy un apasionado desarrollador de Android con experiencia en front-end y back-end. Me encanta la tecnología y crear soluciones innovadoras para mejorar la vida de las personas. Cuando no estoy programando, me gusta pasar tiempo al aire libre y descubrir nuevas aventuras. ¡Siempre estoy buscando aprender algo nuevo y desafiante!
+- 📲 Software developer
+- Soy un apasionado desarrollador de Android con experiencia en front-end y back-end. Me encanta la tecnología y crear soluciones innovadoras para mejorar la vida de las personas. Cuando no estoy programando, me gusta pasar tiempo al aire libre y descubrir nuevas aventuras.
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *De interes*
 <table>
 <tr>
 <td width="50%">
@@ -30,9 +30,13 @@ Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos
 
 <td width="50%">
 <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">JobFinder</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/GuillermoSamboni/FireApp" target="_blank">
+<div style="display:flex;">
+<img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+</div>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -43,7 +47,8 @@ Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
+</div>
+</td>                                                          
 </table>                                                                                 
 </div>
 <br>
