@@ -6,6 +6,7 @@
 - 📲 Software developer
 - Soy un apasionado desarrollador Android con experiencia en front-end y back-end. Me encanta la tecnología y crear soluciones innovadoras para mejorar la vida de las personas. Cuando no estoy programando, me gusta pasar tiempo al aire libre y descubrir nuevas aventuras.
 <br>
+
 ## Proyectos *De interes*
 <table>
 <tr>
@@ -51,6 +52,7 @@ Estamos desarrollando una nueva plataforma de búsqueda de <strong>EMPLEO</stron
 </table>
 </div>
 <br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/GuillermoSamboni">
