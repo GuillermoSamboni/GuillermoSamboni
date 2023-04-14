@@ -34,8 +34,8 @@ Mi proyecto de <strong>Portafolio</strong> es una plataforma que muestra algunos
 <div align="center">                                       
 <a href="https://github.com/GuillermoSamboni/FireApp" target="_blank">
 <div style="display:flex;">
-<img src="https://i.imgur.com/7uCBigG.jpg" width="100" alt="Curso arquitectura MVVM"></a>
-<img src="https://i.imgur.com/7uCBigG.jpg" width="100" alt="Curso arquitectura MVVM"></a>
+<img src="https://i.imgur.com/7uCBigG.jpg" width="300" alt="Curso arquitectura MVVM"></a>
+<img src="https://i.imgur.com/7uCBigG.jpg" width="300" alt="Curso arquitectura MVVM"></a>
 </div>
 <br>
 <p>
