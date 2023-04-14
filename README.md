@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Guillermo</a> 👋</h1>
 </div>
-<img src="https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/Developer.png?alt=media&token=2998af1e-291c-4964-b70d-72e7a1a094c5">
+<img src="[https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/Developer.png?alt=media&token=2998af1e-291c-4964-b70d-72e7a1a094c5](https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/Developer.png?alt=media&token=52417922-239d-4a14-a60b-a87734e72d12)">
 
 ## Sobre mi
 
