@@ -83,5 +83,5 @@ Estas son las tecnologías y herramientas que utilizo en mi día a día como des
 
 <p align="center">
   <a href="https://www.linkedin.com/in/GuillermoSamboni/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Guillermo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:gsamruadev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
