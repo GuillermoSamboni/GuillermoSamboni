@@ -12,7 +12,7 @@
 
 ### Portafolio Personal
 [![Port web site](https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/portWebSite.jpeg?alt=media&token=a611a063-724e-418d-a13d-ea9937482c11)](https://gsamruadev)
-[![Port web site](https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/skills.jpeg?alt=media&token=26cf20b0-e57f-4033-9804-129e8e1cb4b9)](https://gsamruadev)
+[![Skills](https://firebasestorage.googleapis.com/v0/b/portfoliome-17ec8.appspot.com/o/skills.jpeg?alt=media&token=26cf20b0-e57f-4033-9804-129e8e1cb4b9)](https://gsamruadev)
 
 [![Código](https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black)](https://github.com/GuillermoSamboni/Portafolio)
 
@@ -56,6 +56,6 @@ Estamos desarrollando una nueva plataforma de búsqueda de **EMPLEO** llamada **
 ## 📬 Contacto
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GuillermoSamboni/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Guillermo@example.com)
+  <a href="https://www.linkedin.com/in/GuillermoSamboni/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Guillermo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
