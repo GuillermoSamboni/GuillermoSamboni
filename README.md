@@ -15,7 +15,7 @@
 JGR COMUNICACIONES, una empresa dedicada a ofrecer servicios de internet de alta calidad, incluyendo planes de suscripción y servicios de instalación.
 Esta landing page está diseñada para proporcionar a los visitantes toda la información necesaria sobre los distintos servicios de internet, precios y soporte técnico, con una interfaz limpia y moderna.
 
-### Tecnologías & Herramientas
+### Herramientas
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,6 +28,13 @@ Esta landing page está diseñada para proporcionar a los visitantes toda la inf
 EmSilvia, una empresa dedicada a ofrecer servicios de acueducto y alcantarillado en el municipio de Silvia, Cauca. Entre nuestras funciones principales se encuentra la gestión de cobros por los servicios prestados a la comunidad.
 Este aplicativo se creó con el objetivo de facilitar a los usuarios el pago de sus facturas y gestionar la información relacionada con la empresa.
 
+### Herramientas
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### MinisterioParejas
 [![CoupleMinistery](https://firebasestorage.googleapis.com/v0/b/sources-24689.appspot.com/o/images-shared%2Fcouples_ministery%2Fcouple_ministery.png?alt=media&token=22146e24-4644-4974-a9c5-4f48bb0723f4)](https://ministerio-parejas.vercel.app/)
 [![Código](https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black)](https://github.com/GuillermoSamboni/couples-ministery)
@@ -35,7 +42,7 @@ Este aplicativo se creó con el objetivo de facilitar a los usuarios el pago de 
 MinisterioParejas, una comunidad de religión, cuyo objetivo es ofrecer un espacio donde puedas encontrar apoyo, orientación y recursos para cultivar una relación más sólida, más feliz y más amorosa.
 Este aplicativo se enfoca en dar a conocer un lugar donde se pueda encontrar ese acompañamiento religioso, la parte administrativa esta relacionada con la reclutación de informacion de las parejas asistentes a la comunidad.
 
-### Tecnologías & Herramientas
+### Herramientas
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
